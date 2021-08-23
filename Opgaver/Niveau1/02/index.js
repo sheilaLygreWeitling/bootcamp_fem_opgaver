@@ -2,10 +2,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
 const insertNewValue = document.querySelector("#result");
 
-function beregnForhold (a, b){
+function calculate (a, b){
     insertNewValue.textContent = a / b;
 }
 
-beregnForhold(4, 3);
+calculate(4, 3);
 
 });
