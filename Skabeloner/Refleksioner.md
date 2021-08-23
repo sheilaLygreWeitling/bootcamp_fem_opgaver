@@ -16,4 +16,4 @@ Jeg fik kun én af knapperne til at skifte farve, når jeg trykkede. Jeg skal he
 
 ## Niveau 1 - Opgave 01
 
-Jeg syntes det gik rigtig godt. Opgaven var nem nok. I starten kunne jeg ikke lige se, hvordan jeg skulle løse opgaven, når det ikke var tilladt at lave en if-sætning, der spørger på selve farvekoden, men så kom jeg i tanke om, at jeg jo bare kunne have en variabel, som skiftede mellem true og false eller 1 og 0, når jeg trykkede på knappen.
+jeg startede med at lave opgaven forkert... hæhæ. jeg kunne ikke få knappen til at skifte farve flere gange, men kun en gang og så skulle siden loade igen, hvis den skulle skifte farve. Jeg blev lidt forvirret over vi ikke måtte bruge if statement, men da jeg så læste opgaven igen, forstod jeg at vi gerne måtte bruge if statement, men bare ikke som beskrevet i opgaven.  
