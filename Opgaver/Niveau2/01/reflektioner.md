@@ -1,0 +1,2 @@
+Det var en svær opgave, fordi jeg havde den rigtige tankegang, men jeg skulle endnu dybere ind i js. 
+Det hjalp at Troels hjalp og spurgte ind til det jeg skulle og jeg derved kom frem til den løsning. 
